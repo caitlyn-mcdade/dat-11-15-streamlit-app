@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import plotly as px
 import pickle
-st.title("My First Dashboard!")
+st.title("Data Exploration of Japanese Restaurants")
 
 url = "https://raw.githubusercontent.com/JonathanBechtel/dat-11-15/main/ClassMaterial/Unit1/data/master.csv"
 
